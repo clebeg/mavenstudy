@@ -1,0 +1,8 @@
+#ºöÂÔmaven project ²»ĞèÒª
+*.class
+target/
+.classpath
+.project
+.settings/
+RemoteSystemsTempFiles/
+.metadata/
